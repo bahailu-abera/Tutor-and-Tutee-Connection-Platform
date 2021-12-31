@@ -11,7 +11,7 @@
 
     Regarding authentication, users (both tutor and tutee) will:
 
-      Sign up by filling the following form:
+      Sign up by filling the following form:<br>
             [Full name, phone number, email, password, confirm Password]
 
       Login using:
