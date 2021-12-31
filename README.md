@@ -5,6 +5,7 @@
     In the process the tutee will post work and the tutor will see posted works related to their experts, availability time and location in their feed, then apply for works if they are interested.
  
 2) Authentication and Profile
+
     regarding authentication users (both tutor and tutee) will:
       sign up by filling the following form: [Full name, phone number, email, password, confirm Password]
       login using: [phone number or email, password]
@@ -15,5 +16,6 @@
     and also users can delete their account from inside their profile.
 
 3) Authorization:
+
     The tutee will be authorized to post works and see statical information  about their posted works in their dashboard.
     The tutor will be authorized to apply for posted works and see statical information  about works they have applied  in their dashboard.
