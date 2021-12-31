@@ -11,17 +11,22 @@
 
     Regarding authentication, users (both tutor and tutee) will:
 
-      <b>Sign up</b> by filling the following form: [Full name, phone number, email, password, confirm Password]
+      Sign up by filling the following form:
+            [Full name, phone number, email, password, confirm Password]
 
-      Login using: [phone number or email, password]
+      Login using:
+            [phone number or email, password]
 
-      Logout: from the button inside their profile.
+      Logout:
+            from the button inside their profile.
 
     Regarding  profile, users will fill their profile at any time after signing up with the following information:
 
-      For tutor: [experts, availability time, location, testimonials from the tutee, payment rate, other analytic and basic information.]
+      For tutor:
+            [experts, availability time, location, testimonials from the tutee, payment rate, other analytic and basic information.]
 
-      For tutee: [location, testimonials from the tutor, payment rate history, and other analytic and basic information.]
+      For tutee:
+            [location, testimonials from the tutor, payment rate history, and other analytic and basic information.]
 
       and also users can delete their account from inside their profile.
 
