@@ -1,7 +1,7 @@
 # Tutor-and-Tutee-Connection-Platform
 1) The platform involves two parties, the tutor and the tutee.
 
-    The tutors will have their profile explaining their experts, availability time, location, testimonials from the tutee, payment rate, and other analytic and basic information.
+    The tutors will have their profile explaining their experience, availability time, location, testimonials from the tutee, payment rate, and other analytic and basic information.
 
     The tutee (the people who want tutoring service) will have their profile explaining their location,   testimonials from the tutor, payment rate history, and other analytic and basic information.
 
