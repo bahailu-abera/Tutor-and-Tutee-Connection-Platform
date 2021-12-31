@@ -46,13 +46,13 @@
     
  # Group Member
  
-   Tamirat Dereje    UGR/5111/12
+   Tamirat Dereje | UGR/5111/12
    
-   Estifanos Neway   UGR/4776/12
+   Estifanos Neway | UGR/4776/12
     
-   Lidiya Melaku     UGR/3565/12
+   Lidiya Melaku | UGR/3565/12
    
-   Eyob Zebene       UGR/5067/12
+   Eyob Zebene | UGR/5067/12
    
-   Bahailu Abera     UGR/3464/12
+   Bahailu Abera | UGR/3464/12
  
